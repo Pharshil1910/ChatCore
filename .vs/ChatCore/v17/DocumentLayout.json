@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\New folder\\",
+  "WorkspaceRootPath": "E:\\ChatCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|e:\\new folder\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|e:\\new folder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|e:\\chatcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|e:\\new folder\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|e:\\chatcore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|e:\\chatcore\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ChatController.cs",
-              "DocumentMoniker": "E:\\New folder\\Controllers\\ChatController.cs",
+              "DocumentMoniker": "E:\\ChatCore\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
-              "ToolTip": "E:\\New folder\\Controllers\\ChatController.cs",
+              "ToolTip": "E:\\ChatCore\\Controllers\\ChatController.cs",
               "RelativeToolTip": "Controllers\\ChatController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T08:40:17.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\New folder\\appsettings.json",
+              "DocumentMoniker": "E:\\ChatCore\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\New folder\\appsettings.json",
+              "ToolTip": "E:\\ChatCore\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-20T08:40:11.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "E:\\New folder\\appsettings.Development.json",
+              "DocumentMoniker": "E:\\ChatCore\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "E:\\New folder\\appsettings.Development.json",
+              "ToolTip": "E:\\ChatCore\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-20T08:40:09.523Z",
               "EditorCaption": ""

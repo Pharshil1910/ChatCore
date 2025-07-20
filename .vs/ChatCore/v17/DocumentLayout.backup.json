@@ -1,42 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\AIChatbot\\ChatCore\\",
+  "WorkspaceRootPath": "E:\\ChatCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|e:\\aichatbot\\chatcore\\chatcore\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|solutionrelative:chatcore\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|e:\\chatcore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|e:\\aichatbot\\chatcore\\chatcore\\models\\aiprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|solutionrelative:chatcore\\models\\aiprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|e:\\chatcore\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|e:\\aichatbot\\chatcore\\chatcore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|solutionrelative:chatcore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|e:\\aichatbot\\chatcore\\chatcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|solutionrelative:chatcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|e:\\aichatbot\\chatcore\\chatcore\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|solutionrelative:chatcore\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|e:\\aichatbot\\chatcore\\chatcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|solutionrelative:chatcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|e:\\aichatbot\\chatcore\\chatcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|solutionrelative:chatcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|e:\\aichatbot\\chatcore\\chatcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|solutionrelative:chatcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|e:\\aichatbot\\chatcore\\chatcore\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA4D4018-227A-483E-A810-70D1B856E36A}|ChatCore\\ChatCore.csproj|solutionrelative:chatcore\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|e:\\chatcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DB68D85-4D47-3BB9-5373-E7E5F7B6788C}|ChatCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,122 +26,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ChatController.cs",
-              "DocumentMoniker": "E:\\AIChatbot\\ChatCore\\ChatCore\\Controllers\\ChatController.cs",
-              "RelativeDocumentMoniker": "ChatCore\\Controllers\\ChatController.cs",
-              "ToolTip": "E:\\AIChatbot\\ChatCore\\ChatCore\\Controllers\\ChatController.cs",
-              "RelativeToolTip": "ChatCore\\Controllers\\ChatController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T10:16:43.618Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AIProvider.cs",
-              "DocumentMoniker": "E:\\AIChatbot\\ChatCore\\ChatCore\\Models\\AIProvider.cs",
-              "RelativeDocumentMoniker": "ChatCore\\Models\\AIProvider.cs",
-              "ToolTip": "E:\\AIChatbot\\ChatCore\\ChatCore\\Models\\AIProvider.cs",
-              "RelativeToolTip": "ChatCore\\Models\\AIProvider.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBEAAAAIAAAAAAAAAA==",
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "E:\\ChatCore\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "E:\\ChatCore\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T05:12:32.569Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\AIChatbot\\ChatCore\\ChatCore\\Views\\Chat\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChatCore\\Views\\Chat\\Index.cshtml",
-              "ToolTip": "E:\\AIChatbot\\ChatCore\\ChatCore\\Views\\Chat\\Index.cshtml",
-              "RelativeToolTip": "ChatCore\\Views\\Chat\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-13T10:18:26.025Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-07-20T08:40:17.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "E:\\AIChatbot\\ChatCore\\ChatCore\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ChatCore\\appsettings.Development.json",
-              "ToolTip": "E:\\AIChatbot\\ChatCore\\ChatCore\\appsettings.Development.json",
-              "RelativeToolTip": "ChatCore\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-20T07:38:28.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\AIChatbot\\ChatCore\\ChatCore\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ChatCore\\Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\AIChatbot\\ChatCore\\ChatCore\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ChatCore\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-20T06:48:19.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\AIChatbot\\ChatCore\\ChatCore\\Program.cs",
-              "RelativeDocumentMoniker": "ChatCore\\Program.cs",
-              "ToolTip": "E:\\AIChatbot\\ChatCore\\ChatCore\\Program.cs",
-              "RelativeToolTip": "ChatCore\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T10:18:49.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\AIChatbot\\ChatCore\\ChatCore\\appsettings.json",
-              "RelativeDocumentMoniker": "ChatCore\\appsettings.json",
-              "ToolTip": "E:\\AIChatbot\\ChatCore\\ChatCore\\appsettings.json",
-              "RelativeToolTip": "ChatCore\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "E:\\ChatCore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\ChatCore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-20T05:16:55.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T08:40:11.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\AIChatbot\\ChatCore\\ChatCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ChatCore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\AIChatbot\\ChatCore\\ChatCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ChatCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-20T06:48:28.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ChatMessage.cs",
-              "DocumentMoniker": "E:\\AIChatbot\\ChatCore\\ChatCore\\Models\\ChatMessage.cs",
-              "RelativeDocumentMoniker": "ChatCore\\Models\\ChatMessage.cs",
-              "ToolTip": "E:\\AIChatbot\\ChatCore\\ChatCore\\Models\\ChatMessage.cs",
-              "RelativeToolTip": "ChatCore\\Models\\ChatMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T10:05:05.335Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\ChatCore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\ChatCore\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T08:40:09.523Z",
               "EditorCaption": ""
             }
           ]

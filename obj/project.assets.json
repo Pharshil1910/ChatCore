@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\New folder\\ChatCore.csproj",
+      "projectUniqueName": "E:\\ChatCore\\ChatCore.csproj",
       "projectName": "ChatCore",
-      "projectPath": "E:\\New folder\\ChatCore.csproj",
+      "projectPath": "E:\\ChatCore\\ChatCore.csproj",
       "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-      "outputPath": "E:\\New folder\\obj\\",
+      "outputPath": "E:\\ChatCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

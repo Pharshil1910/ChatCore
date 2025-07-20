@@ -70,3 +70,40 @@ E:\New folder\obj\Debug\net8.0\refint\ChatCore.dll
 E:\New folder\obj\Debug\net8.0\ChatCore.pdb
 E:\New folder\obj\Debug\net8.0\ChatCore.genruntimeconfig.cache
 E:\New folder\obj\Debug\net8.0\ref\ChatCore.dll
+E:\ChatCore\bin\Debug\net8.0\appsettings.Development.json
+E:\ChatCore\bin\Debug\net8.0\appsettings.json
+E:\ChatCore\bin\Debug\net8.0\ChatCore.staticwebassets.endpoints.json
+E:\ChatCore\bin\Debug\net8.0\ChatCore.staticwebassets.runtime.json
+E:\ChatCore\bin\Debug\net8.0\ChatCore.exe
+E:\ChatCore\bin\Debug\net8.0\ChatCore.deps.json
+E:\ChatCore\bin\Debug\net8.0\ChatCore.runtimeconfig.json
+E:\ChatCore\bin\Debug\net8.0\ChatCore.dll
+E:\ChatCore\bin\Debug\net8.0\ChatCore.pdb
+E:\ChatCore\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ChatCore\obj\Debug\net8.0\ChatCore.csproj.AssemblyReference.cache
+E:\ChatCore\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\ChatCore\obj\Debug\net8.0\ChatCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChatCore\obj\Debug\net8.0\ChatCore.AssemblyInfoInputs.cache
+E:\ChatCore\obj\Debug\net8.0\ChatCore.AssemblyInfo.cs
+E:\ChatCore\obj\Debug\net8.0\ChatCore.csproj.CoreCompileInputs.cache
+E:\ChatCore\obj\Debug\net8.0\ChatCore.MvcApplicationPartsAssemblyInfo.cache
+E:\ChatCore\obj\Debug\net8.0\ChatCore.RazorAssemblyInfo.cache
+E:\ChatCore\obj\Debug\net8.0\ChatCore.RazorAssemblyInfo.cs
+E:\ChatCore\obj\Debug\net8.0\ChatCore.sourcelink.json
+E:\ChatCore\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\ChatCore\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\ChatCore\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\ChatCore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ChatCore\obj\Debug\net8.0\scopedcss\bundle\ChatCore.styles.css
+E:\ChatCore\obj\Debug\net8.0\scopedcss\projectbundle\ChatCore.bundle.scp.css
+E:\ChatCore\obj\Debug\net8.0\staticwebassets.build.json
+E:\ChatCore\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\ChatCore\obj\Debug\net8.0\staticwebassets.development.json
+E:\ChatCore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ChatCore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\ChatCore\obj\Debug\net8.0\ChatCore.csproj.Up2Date
+E:\ChatCore\obj\Debug\net8.0\ChatCore.dll
+E:\ChatCore\obj\Debug\net8.0\refint\ChatCore.dll
+E:\ChatCore\obj\Debug\net8.0\ChatCore.pdb
+E:\ChatCore\obj\Debug\net8.0\ChatCore.genruntimeconfig.cache
+E:\ChatCore\obj\Debug\net8.0\ref\ChatCore.dll

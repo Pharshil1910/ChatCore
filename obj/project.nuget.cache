@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2EAxGW5uWWQ=",
+  "dgSpecHash": "qwk0hO8XGB8=",
   "success": true,
-  "projectFilePath": "E:\\New folder\\ChatCore.csproj",
+  "projectFilePath": "E:\\ChatCore\\ChatCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harsh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
