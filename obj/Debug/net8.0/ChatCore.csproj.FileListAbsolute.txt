@@ -1,0 +1,72 @@
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.csproj.AssemblyReference.cache
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.AssemblyInfoInputs.cache
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.AssemblyInfo.cs
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.csproj.CoreCompileInputs.cache
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.MvcApplicationPartsAssemblyInfo.cache
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.RazorAssemblyInfo.cache
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.RazorAssemblyInfo.cs
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.sourcelink.json
+E:\AIChatbot\ChatCore\ChatCore\bin\Debug\net8.0\appsettings.Development.json
+E:\AIChatbot\ChatCore\ChatCore\bin\Debug\net8.0\appsettings.json
+E:\AIChatbot\ChatCore\ChatCore\bin\Debug\net8.0\ChatCore.staticwebassets.runtime.json
+E:\AIChatbot\ChatCore\ChatCore\bin\Debug\net8.0\ChatCore.staticwebassets.endpoints.json
+E:\AIChatbot\ChatCore\ChatCore\bin\Debug\net8.0\ChatCore.exe
+E:\AIChatbot\ChatCore\ChatCore\bin\Debug\net8.0\ChatCore.deps.json
+E:\AIChatbot\ChatCore\ChatCore\bin\Debug\net8.0\ChatCore.runtimeconfig.json
+E:\AIChatbot\ChatCore\ChatCore\bin\Debug\net8.0\ChatCore.dll
+E:\AIChatbot\ChatCore\ChatCore\bin\Debug\net8.0\ChatCore.pdb
+E:\AIChatbot\ChatCore\ChatCore\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\scopedcss\bundle\ChatCore.styles.css
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\scopedcss\projectbundle\ChatCore.bundle.scp.css
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\staticwebassets.build.json
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\staticwebassets.development.json
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.csproj.Up2Date
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.dll
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\refint\ChatCore.dll
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.pdb
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ChatCore.genruntimeconfig.cache
+E:\AIChatbot\ChatCore\ChatCore\obj\Debug\net8.0\ref\ChatCore.dll
+E:\New folder\bin\Debug\net8.0\ChatCore.staticwebassets.endpoints.json
+E:\New folder\bin\Debug\net8.0\appsettings.Development.json
+E:\New folder\bin\Debug\net8.0\appsettings.json
+E:\New folder\bin\Debug\net8.0\ChatCore.staticwebassets.runtime.json
+E:\New folder\bin\Debug\net8.0\ChatCore.exe
+E:\New folder\bin\Debug\net8.0\ChatCore.deps.json
+E:\New folder\bin\Debug\net8.0\ChatCore.runtimeconfig.json
+E:\New folder\bin\Debug\net8.0\ChatCore.dll
+E:\New folder\bin\Debug\net8.0\ChatCore.pdb
+E:\New folder\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\New folder\obj\Debug\net8.0\ChatCore.csproj.AssemblyReference.cache
+E:\New folder\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\New folder\obj\Debug\net8.0\ChatCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\obj\Debug\net8.0\ChatCore.AssemblyInfoInputs.cache
+E:\New folder\obj\Debug\net8.0\ChatCore.AssemblyInfo.cs
+E:\New folder\obj\Debug\net8.0\ChatCore.csproj.CoreCompileInputs.cache
+E:\New folder\obj\Debug\net8.0\ChatCore.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\obj\Debug\net8.0\ChatCore.RazorAssemblyInfo.cache
+E:\New folder\obj\Debug\net8.0\ChatCore.RazorAssemblyInfo.cs
+E:\New folder\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\New folder\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\New folder\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\New folder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\New folder\obj\Debug\net8.0\scopedcss\bundle\ChatCore.styles.css
+E:\New folder\obj\Debug\net8.0\scopedcss\projectbundle\ChatCore.bundle.scp.css
+E:\New folder\obj\Debug\net8.0\staticwebassets.build.json
+E:\New folder\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\New folder\obj\Debug\net8.0\staticwebassets.development.json
+E:\New folder\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\New folder\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\New folder\obj\Debug\net8.0\ChatCore.csproj.Up2Date
+E:\New folder\obj\Debug\net8.0\ChatCore.dll
+E:\New folder\obj\Debug\net8.0\refint\ChatCore.dll
+E:\New folder\obj\Debug\net8.0\ChatCore.pdb
+E:\New folder\obj\Debug\net8.0\ChatCore.genruntimeconfig.cache
+E:\New folder\obj\Debug\net8.0\ref\ChatCore.dll

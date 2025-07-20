@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "AI Chat Bot";
+}
+
+<link rel="stylesheet" href="~/css/chat.css" asp-append-version="true" />
+
+<div class="chat-container">
+    <div class="chat-header">
+        <h1>🤖 ChatCore</h1>
+    </div>
+    
+    <div class="chat-messages" id="chatMessages">
+        <div class="message bot">
+            <div class="message-avatar">AI</div>
+            <div class="message-content">
+                Hello! I'm your AI assistant. How can I help you today? 😊
+            </div>
+        </div>
+    </div>
+    
+    <div class="chat-input">
+        <div class="input-group">
+            <textarea 
+                id="userMessage" 
+                class="message-input" 
+                rows="1" 
+                placeholder="Type your message here..."
+                onkeypress="handleKeyPress(event)"></textarea>
+            <button onclick="sendMessage()" class="send-button" id="sendButton">
+                Send
+            </button>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/chat.js" asp-append-version="true"></script>
+}
